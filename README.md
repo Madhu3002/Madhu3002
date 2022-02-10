@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Madhu3002
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning to explore.
+- 🌱 I’m currently learning Python.
 - 📫 reach me @ manjumadhu3002@outlook.com
